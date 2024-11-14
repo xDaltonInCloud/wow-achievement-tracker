@@ -31,4 +31,7 @@ def character_achievements():
             realm=realm
         )
     else:
-        return render_template('error.html', message="Failed to retrieve char
+        return render_template('error.html', message="Failed to retrieve character achievements.")
+
+if __name__ == "__main__":
+    app.run(debug=True)
