@@ -98,16 +98,3 @@ Example
 License
 
 This project is licensed under the MIT License.
-
-
----
-
-### Explanation of Markdown Formatting:
-
-- **Headings**: Use `#`, `##`, `###` for main headings, subheadings, and smaller sections.
-- **Bold and Italics**: Use `**bold**` for important points and `*italics*` for titles.
-- **Code Blocks**: Use triple backticks (```) for larger code blocks, specifying the language for syntax highlighting (`bash`, `ini`, `python`).
-- **Inline Code**: Use single backticks (`) for inline code elements, like `python visualization_ui.py`.
-- **Bullet Points**: Use `-` or `*` for bullet points.
-
-When saved as `README.md`, GitHub will render this Markdown content with formatting, making it readable and professional-looking on your repository page. Let me know if you’d like further adjustments!
